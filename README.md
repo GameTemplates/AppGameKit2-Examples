@@ -1,4 +1,4 @@
-# AppGameKit2-Examples
+# AppGameKit2 Examples
 Free examples made in AppGameKit2
 
 All the examples are completely free to use for any purposes.
